@@ -8,7 +8,7 @@ import 'package:movie_app/src/movies/movie_repository.dart';
 void main() {
   runApp(MyApp());
 }
-// 1
+// 2
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
